@@ -29,16 +29,7 @@
 
 ---
 
-### 🎬 Matrix Vibes
 
-<p align="center">
-  <img src="https://i.imgur.com/5b5OY6U.gif" alt="Matrix rain effect" width="400" />
-</p>
-<p align="center">
-  <em>"There is no spoon." – Matrix</em>
-</p>
-
----
 
 ### 🏅 Certificates
 
