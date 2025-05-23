@@ -1,15 +1,15 @@
-<h1 align="center">👋 Здравей! Аз съм Алехандро Стефанов</h1>
-<p align="center">🎓 Студент в SoftUni | 💡 Начинаещ програмист | 🚀 Стъпка по стъпка към .NET развитие</p>
+<h1 align="center">👋 Hi there! I'm Alejandro Stefanov</h1>
+<p align="center">🎓 Student at SoftUni | 💡 Aspiring Developer | 🚀 Step by step toward becoming a .NET pro</p>
 
 ---
 
-### 🧠 За мен
+### 🧠 About Me
 
-- 🎓 Уча **Programming Fundamentals** с C# в SoftUni  
-- ✅ Завърших успешно **Programming Basics**  
-- 💻 Интересувам се от C#, .NET, уеб технологии  
-- 🌱 В момента се фокусирам върху основи на програмирането, писане на чист код и решаване на реални задачи  
-- 🎯 Цел: Да премина пътя в SoftUni и да стана уверен .NET разработчик  
+- 🎓 Currently studying **Programming Fundamentals with C#** at SoftUni  
+- ✅ Successfully completed **Programming Basics**  
+- 💻 Passionate about C#, .NET, and web development  
+- 🌱 Focused on learning the fundamentals, writing clean code, and solving real-world problems  
+- 🎯 Goal: Complete the full SoftUni path and become a confident .NET developer  
 
 ---
 
@@ -22,29 +22,17 @@
 
 ---
 
-### 🏅 Сертификати
+### 🏅 Certificates
 
-- [✅ Programming Basics with C# (SoftUni сертификат)](https://softuni.bg/certificates/details/228176/7bc2b9c7)
-
----
-
-### 📂 Проекти (начални)
-
-| Проект | Описание | Технологии |
-|--------|----------|------------|
-| 🧮 **Calculator App** | Конзолен калкулатор с основни операции | C# |
-| 🎯 **Guess the Number** | Игра за отгатване на число | C# |
-| 🧾 **Text Stats Tool** | Анализатор на символи и думи | C# |
+- [✅ Programming Basics with C# (SoftUni Certificate)](https://softuni.bg/certificates/details/228176/7bc2b9c7)
 
 ---
 
+### 📫 Contact
 
-
-### 📫 Контакти
-
-- 📧 Имейл: [stefanovalehandro@gmail.com](mailto:stefanovalehandro@gmail.com)  
+- 📧 Email: [stefanovalehandro@gmail.com](mailto:stefanovalehandro@gmail.com)  
 - 🌐 Facebook: [facebook.com/stefanovalehandro](https://www.facebook.com/profile.php?id=61576334079640&locale=bg_BG)
 
 ---
 
-⭐ Благодаря, че посети профила ми! Работя усърдно, за да ставам по-добър всеки ден. 🙌
+⭐ Thanks for stopping by! I'm working hard to get better every day. 🙌
