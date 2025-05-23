@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi there! I'm Alejandro Stefanov</h1>
+<h1 align="center">👋 Hi there! I'm Alehandro Stefanov</h1>
 <p align="center">🎓 Student at SoftUni | 💡 Aspiring Developer | 🚀 Step by step toward becoming a .NET pro</p>
 
 ---
